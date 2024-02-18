@@ -1,4 +1,4 @@
-# 💫 Hello! I am Berke:
+# 💫 Hello! I am Berke
 ## 👾 A student who loves coding
 🔭 I’m currently working on Devoloperz<br> 🌱 I’m currently learning MongoDb<br> 💬 Ask me about SaaS,Competitions or just chat about tech & programming :)<br>📻 Amateour Youtuber </br><br> 📫 How to reach me panda.dev@devoloperz.rf.gd
 

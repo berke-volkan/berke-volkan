@@ -1,30 +1,18 @@
-# Hi 👋! My name is Berke and I'm a Student from Turkey
+<h1 align="center">Hi 👋, I'm Berke</h1>
+<h3 align="center">A student who loves coding</h3>
 
-## Technologies
-<div style={{flex:1}}>
-  
+- 🔭 I’m currently working on [Devoloperz](https://devoloperz.vercel.app/)
 
-<img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244252/nextjs-icon-md.png" width="25px" height="25px"/>
-<img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="25px" height="25px"/>
-<img src="https://th.bing.com/th/id/OIP.T0a-QUNewZDsyx6BkinfewHaHa?w=188&h=188&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="25px" height="25px"/>
-<img src="https://th.bing.com/th/id/OIP.33CwBYkmnMfpA9Djup22JwHaHa?w=156&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="25px" height="25px"/>
-<img src="https://th.bing.com/th/id/OIP.lZHtgsqo0gww25bLcpjTqQHaHZ?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="25px" height="25px"/>
+- 🌱 I’m currently learning **MongoDb**
 
-<img src="https://www.bing.com/th?id=OIP.zrwD40IMoeJRWbtfiROURAHaHa&w=206&h=206&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" width="25px" height="25px"/>
-</div>
+- 💬 Ask me about **SaaS,Competitions or just chat about tech & programming :)**
 
+- 📫 How to reach me **panda.dev@devoloperz.rf.gd**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Devoloperz
-My top level project for now 😄 İn simple it is a for devs by devs platform.İt is in the private beta but not have any member yet
-- Submission: https://bit.ly/devoloperz-submission
-
-### Nesia
-İt is a ai project.You can chat with him.[Just Click Here](https://nesia.vercel.app/chat)
-### Quizfy (StudentBackPack)
-I tried to create who want to be millonere? clone.We use this project in our class.To try: [Click](https://quizfy-ten.vercel.app/)
-### isHere? (StudentBackPack)
-I want to create attandance platform and ı created this .d .We use this app in our class
-### StudentBackPack
-I didn't started this project.it is a platform for teachers who researches for content
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 

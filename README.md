@@ -1,20 +1,70 @@
-# 💫 Hello! I am Berke
-## 👾 A student who loves coding
-🔭 I’m currently working on Devoloperz<br> 🌱 I’m currently learning MongoDb<br> 💬 Ask me about SaaS,Competitions or just chat about tech & programming :)<br>📻 Amateour Youtuber </br><br> 📫 How to reach me panda.dev@devoloperz.rf.gd
+
+# 👋 Howdy, I'm berke-volkan! 
+#### (Yes, that's me trying to sound cool on the internet)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=berke-volkan.berke-volkan) 
+[![GitHub followers](https://img.shields.io/github/followers/berke-volkan?label=Follow&style=social)](https://github.com/berke-volkan)
+
+## 🤓 Who am I?
+```bash
+$ whoami
+> Just another developer who turns ☕ into <code/>
+> Professional bug creator (and occasional bug fixer)
+> Stack Overflow's most dedicated copy-paste artist
+
+```
+
+## 🚀 My Superpowers
+```python
+my_skills = {
+    'coding': ['Making computers do things they don\'t want to do'],
+    'debugging': ['Console.log() specialist', 'Professional try-catch juggler'],
+    'problem_solving': ['Turning it off and on again', 'Googling error messages like a pro'],
+    'specialties': ['Converting caffeine to code', 'Writing code that only I understand'],
+    'student_life': ['Balancing assignments and projects', 'Learning new tech spells']
+}
+```
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MFmzWvm5EC) 
+## 📊 My GitHub Stats (Warning: May Contain Awesome)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=berke-volkan&show_icons=true&theme=radical)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=berke-volkan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=berke-volkan&theme=radical&hide_border=false)<br/>
+## 🏆 Achievements
+- 🥇 Successfully centered a div once
+- 🥈 Made code work on first try (witnesses needed)
+- 🥉 Fixed a bug by adding a semicolon
+- 🎖️ Survived multiple merge conflicts
+- 📚 Completed [Your Course Name] at [Your University Name]
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💭 Daily Thoughts
+```javascript
+while (alive) {
+    eat();
+    code();
+    sleep();
+    if(problems) {
+        coffee.drink();
+    }
+    // Don't forget to attend classes and submit assignments!
+}
+```
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## 📫 How to Find Me
+- 💼 LinkedIn: Where I pretend to be professional
+- 🐦 Twitter: Where I complain about JavaScript
+- 📧 Email: Where your message might get lost in my spam folder
 
+## 🎵 Currently Coding To:
+- "Debug It Off" (Taylor Swift Cover)
+- "Another Bug in the Code" (Pink Floyd Cover)
+- "Sweet Dreams Are Made of Clean Code" (Eurythmics Cover)
+
+## ⚡ Fun Facts
+- I speak multiple languages (Python, JavaScript, and Sarcasm)
+- My code has more comments than my social life has events
+- I debug in my dreams (it's not as cool as it sounds)
+
+---
+⭐️ From [berke-volkan](https://github.com/berke-volkan) with ❤️ (and lots of ☕)
+
+*Disclaimer: No bugs were harmed in the making of this README*

@@ -34,7 +34,6 @@ my_skills = {
 - 🥈 Made code work on first try (witnesses needed)
 - 🥉 Fixed a bug by adding a semicolon
 - 🎖️ Survived multiple merge conflicts
-- 📚 Completed [Your Course Name] at [Your University Name]
 
 ## 💭 Daily Thoughts
 ```javascript

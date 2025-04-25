@@ -2,7 +2,6 @@
 # 👋 Howdy, I'm berke-volkan! 
 #### (Yes, that's me trying to sound cool on the internet)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=berke-volkan.berke-volkan) 
 [![GitHub followers](https://img.shields.io/github/followers/berke-volkan?label=Follow&style=social)](https://github.com/berke-volkan)
 
 ## 🤓 Who am I?
